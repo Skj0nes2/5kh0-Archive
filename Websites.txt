@@ -23,6 +23,11 @@ https://sites.google.com/view/pizzaedition/
 The Pizza Edition Gitub:
 https://thepizzaedition.github.io
 
-Tammal Games:
-https://tammalgames.github.io
+Tommal Bran Games:
+http://tommalbran.github.io/games/
 
+SFW Galaxy Main:
+https://neonk.github.io/swfgalaxy/
+
+SFW Galaxy Hosted:
+https://skj0nes2.github.io/swfgalaxy.github.io/
