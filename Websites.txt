@@ -1,33 +1,40 @@
-Websites:
-
-Nettleweb Main:
-https://nettleweb.com/
-
-Nettleweb Mirror 1: 
-https://nettleweb.pages.dev/
-
-Nettleweb Github: 
-https://nettleweb.github.io/
-
-Nettleweb Data Url: data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiID8+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTI4MCIgaGVpZ2h0PSI3MjAiIHZpZXdCb3g9IjAgMCAxMjgwIDcyMCI+Cgk8dGl0bGU+R29vZ2xlPC90aXRsZT4KCTxmb3JlaWduT2JqZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMjgwIiBoZWlnaHQ9IjcyMCI+CgkJPGVtYmVkIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIiBzcmM9Imh0dHBzOi8vbmV0dGxld2ViLmNvbS8iIHR5cGU9InRleHQvcGxhaW4iIHdpZHRoPSIxMjYwIiBoZWlnaHQ9IjcwMCIgLz4KCTwvZm9yZWlnbk9iamVjdD4KPC9zdmc+
-
-Nettleweb Hosted Url: 
-https://skj0nes2.github.io/nettleweb.github.io/
-
-The Pizza Edition Main: 
-https://mathmasterz.com
-
-The Pizza Edition Google Sites: 
-https://sites.google.com/view/pizzaedition/
-
-The Pizza Edition Gitub:
-https://thepizzaedition.github.io
-
-Tommal Bran Games:
-http://tommalbran.github.io/games/
-
-SFW Galaxy Main:
-https://neonk.github.io/swfgalaxy/
-
-SFW Galaxy Hosted:
-https://skj0nes2.github.io/swfgalaxy.github.io/
+#Websites:
+      
+  #Nettleweb:
+      
+      * Nettleweb Main:
+          https://nettleweb.com/
+      
+      * Nettleweb Mirror 1: 
+          https://nettleweb.pages.dev/
+      
+      * Nettleweb Github: 
+          https://nettleweb.github.io/
+      
+      * Nettleweb Data Url:   
+          data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiID8+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTI4
+          MCIgaGVpZ2h0PSI3MjAiIHZpZXdCb3g9IjAgMCAxMjgwIDcyMCI+Cgk8dGl0bGU+R29vZ2xlPC90aXRsZT4KCTxmb3JlaWduT2JqZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMjgwIiBoZWlnaH
+          Q9IjcyMCI+CgkJPGVtYmVkIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIiBzcmM9Imh0dHBzOi8vbmV0dGxld2ViLmNvbS8iIHR5cGU9InRleHQvcGxhaW4iIHdpZHRoPSIx
+          MjYwIiBoZWlnaHQ9IjcwMCIgLz4KCTwvZm9yZWlnbk9iamVjdD4KPC9zdmc+
+      
+      * Nettleweb Hosted Url: 
+          https://skj0nes2.github.io/nettleweb.github.io/
+  
+  #The Pizza Edition:
+  
+      * The Pizza Edition Main: 
+          https://mathmasterz.com
+      
+      * The Pizza Edition Google Sites: 
+          https://sites.google.com/view/pizzaedition/
+      
+      * The Pizza Edition Gitub:
+          https://thepizzaedition.github.io
+  
+  #Other:
+  
+      * Tommal Bran Games:
+          http://tommalbran.github.io/games/
+    
+      * SFW Galaxy Hosted:
+          https://skj0nes2.github.io/swfgalaxy.github.io/
